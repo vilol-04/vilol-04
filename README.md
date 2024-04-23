@@ -12,4 +12,4 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: linkedin.com/in/vilol-goyal-1a3411226/
 
 ### Tech Stack
-HTML, CSS, Javascript, Bootstrap, Reactjs, Nodejs, Python, C/C++, MySQL, PostgreSQL
+HTML, CSS, Javascript, Angular, Bootstrap, Reactjs, Nodejs, Python, C/C++, MySQL, PostgreSQL
